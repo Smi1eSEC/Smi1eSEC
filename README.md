@@ -3,6 +3,6 @@
 - 📖 Blog: [https://www.smi1e.top/](https://www.smi1e.top/)
 - 🇺🇳 CTFer@[Nu1L](https://www.nu1l.com/)
 - 📧 Email: smi1esec@163.com
-- 📫 Twitter: [Smi1e](https://twitter.com/Smi1e_521?lang=zh-cn)
+- 📫 Twitter: [Smi1e](https://twitter.com/Smi1eSEC?lang=zh-cn)
 
 ![Smi1e's github stats](https://github-readme-stats.vercel.app/api?username=Smi1eSEC)
